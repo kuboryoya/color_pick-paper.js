@@ -1,0 +1,25 @@
+{
+  "name": "colorpick",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "get-image-colors": "^4.0.0",
+    "get-image-pixels": "^1.0.1",
+    "get-pixels": "^3.3.2",
+    "node-vibrant": "^3.2.1-alpha.1",
+    "paper": "^0.12.15",
+    "rgb-hex": "^3.0.0",
+    "webpack": "^4.29.0",
+    "webpack-cli": "^3.2.1",
+    "webpack-dev-server": "^3.1.14"
+  },
+  "author": "",
+  "license": "ISC"
+}
